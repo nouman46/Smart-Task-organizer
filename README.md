@@ -12,11 +12,6 @@
 * **Time and date management:** Assign reminders and deadlines effortlessly.
 
 ---
-## Screenshot
-
-<img width="1876" height="836" alt="image" src="https://github.com/user-attachments/assets/b672b0fb-16a1-4b2c-b0ed-5f5f0600368e" />
-
----
 
 ## Project Structure
 
@@ -82,6 +77,11 @@ Smart-Task-Organizer/
    npm start
    ```
 6. Open your browser at `http://localhost:3000`
+
+---
+## Screenshot
+
+<img width="1876" height="836" alt="image" src="https://github.com/user-attachments/assets/b672b0fb-16a1-4b2c-b0ed-5f5f0600368e" />
 
 ---
 
