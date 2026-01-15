@@ -42,6 +42,7 @@ router.post("/", async (req, res) => {
   }
 });
 
+
 // Update task
 router.put("/:id", async (req, res) => {
   const updated = await Task.findByIdAndUpdate(req.params.id, req.body, { new: true });
